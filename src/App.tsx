@@ -1,4 +1,4 @@
-import { shallow } from "zustand/shallow";
+// import { shallow } from "zustand/shallow";
 import "./App.css";
 import { useBookStore } from "./store/bookStore";
 
